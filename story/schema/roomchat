@@ -1,0 +1,10 @@
+id
+users []
+chat [{
+    msg
+    productId
+    user
+    userTaken
+    listId
+}]
+

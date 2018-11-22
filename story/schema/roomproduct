@@ -1,0 +1,7 @@
+productId
+parentId
+productName
+broughtTime [{
+    chatId
+    date
+}]
